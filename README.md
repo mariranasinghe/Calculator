@@ -10,9 +10,9 @@ multiplication, and division. The project also includes keyboard navigation for 
 Try out the calculator: ```[Simple Calculator Demo](https://mariranasinghe.github.io/Calculator/)```
 
 ## Features
-* Basic arithmetic operations such as addition, subtraction, multiplication, and division.
+* Basic arithmetic operations include addition, subtraction, multiplication, and division.
 * Keyboard navigation giving it interactive capabilites.
-* Responsive design with the ability to adapte to different screen sizes.
+* Responsive design with the ability to adapt to different screen sizes.
 * Clear and backspace functions making it easier to clear the display or delete the last entered data.
 
 ### Built with

@@ -7,7 +7,7 @@ with a clean user interface that supports basic arithmetic operations like addit
 multiplication, and division. The project also includes keyboard navigation for an enhanced user experience.
 
 ## Demo
-Try out the calculator: ```[Simple Calculator Demo](https://mariranasinghe.github.io/Calculator/)```
+Try out the calculator: ```[Simple Calculator Demo](https://mariranasinghe.github.io/Simple-Calculator/)```
 
 ## Features
 * Basic arithmetic operations include addition, subtraction, multiplication, and division.

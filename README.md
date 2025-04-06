@@ -42,6 +42,3 @@ Use ```C``` (Esc) to clear the display or ```←``` (Backspace) to delete the la
 3. Commit your changes (```git commit -m ...```)
 4. Push to the branch (```git push origin ...```)
 5. Open a pull request
-
-### Main contributors
-Nobody contributed yet

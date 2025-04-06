@@ -7,5 +7,13 @@
   },
   "author": "Marizza Ranasinghe",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariranasinghe/Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariranasinghe/Calculator/issues"
+  },
+  "homepage": "https://github.com/mariranasinghe/Calculator#readme",
   "description": ""
 }

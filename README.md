@@ -6,8 +6,8 @@ Simple calculator was a short project built with HTML, CSS, and JavaScript. Itâ€
 with a clean user interface that supports basic arithmetic operations like addition, subtraction,
 multiplication, and division. The project also includes keyboard navigation for an enhanced user experience.
 
-## Demo
-Try out the calculator: ```[Simple Calculator Demo](https://mariranasinghe.github.io/Simple-Calculator/)```
+## Live Demo
+Try out the calculator: https://mariranasinghe.github.io/Simple-Calculator/
 
 ## Features
 * Basic arithmetic operations include addition, subtraction, multiplication, and division.
